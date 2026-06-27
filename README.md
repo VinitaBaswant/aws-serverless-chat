@@ -6,6 +6,8 @@ A scalable, cost-effective, real-time chat solution built using AWS Serverless s
 
 This project implements a fully serverless real-time chat application on AWS using API Gateway WebSocket, Lambda, and DynamoDB with the entire infrastructure automated via AWS CloudFormation. No server management, no over-provisioning, just on-demand scalable chat.
 
+Project link: https://www.linkedin.com/posts/vinita-baswant_serverless-aws-cloudformation-activity-7308695102611251201-Y2w2?utm_source=share&utm_medium=member_desktop&rcm=ACoAABpjHZ8B7Eh242YS93_LEpx-FHEw0zNv9ns
+
 ## Problem Statement
 
 Traditional chat applications require dedicated servers that are costly to maintain and hard to scale. This project solves that by going fully serverless - infrastructure scales automatically with demand and you only pay for what you use.
